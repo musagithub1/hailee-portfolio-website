@@ -1,6 +1,6 @@
 {
-    "name": "",
-    "short_name": "",
+    "name": "Mussa Khan",
+    "short_name": "Mussa",
     "icons": [
         {
             "src": "android-chrome-192x192.png",
@@ -15,5 +15,5 @@
     ],
     "theme_color": "#a789d4",
     "background_color": "#a789d4",
-    "display": "standalone"
+    "display": "musa khan"
 }
